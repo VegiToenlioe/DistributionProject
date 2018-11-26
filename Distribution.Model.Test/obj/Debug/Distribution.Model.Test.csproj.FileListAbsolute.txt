@@ -1,0 +1,7 @@
+D:\Source\Others\DistributionProject\Distribution.Model.Test\bin\Debug\Distribution.Model.Test.dll
+D:\Source\Others\DistributionProject\Distribution.Model.Test\bin\Debug\Distribution.Model.Test.pdb
+D:\Source\Others\DistributionProject\Distribution.Model.Test\bin\Debug\Distribution.Model.dll
+D:\Source\Others\DistributionProject\Distribution.Model.Test\bin\Debug\Distribution.Model.pdb
+D:\Source\Others\DistributionProject\Distribution.Model.Test\obj\Debug\Distribution.Model.Test.csprojResolveAssemblyReference.cache
+D:\Source\Others\DistributionProject\Distribution.Model.Test\obj\Debug\Distribution.Model.Test.dll
+D:\Source\Others\DistributionProject\Distribution.Model.Test\obj\Debug\Distribution.Model.Test.pdb
